@@ -1,5 +1,5 @@
 # dashboard-netflix-powerbi
-![Preview do Dashboard da Netflix](meuprimeirodashboard.png)
+![Preview do Dashboard da Netflix](dashboard_powerbi.png)
 
 # Netflix Movies and TV Shows Data Analysis
 
