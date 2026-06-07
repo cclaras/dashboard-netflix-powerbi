@@ -1,4 +1,6 @@
 # dashboard-netflix-powerbi
+![Preview do Dashboard da Netflix](meu primeiro dashboard.png)
+
 # Netflix Movies and TV Shows Data Analysis
 
 Este repositório contém um dashboard interativo desenvolvido no Power BI para analisar o catálogo, a popularidade e as avaliações de títulos da Netflix lançados entre 2010 e 2026.
