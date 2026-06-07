@@ -1,0 +1,5 @@
+Plaintext
+# Power BI temporários e caches
+*.pbi
+*.user.json
+.Package/
